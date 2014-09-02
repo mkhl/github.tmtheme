@@ -566,6 +566,19 @@ selection       #FFFFAA handmade :-)
 				<string>#4183C4</string>
 			</dict>
 		</dict>
+		<dict>
+    		<key>name</key>
+    		<string>Block Cursor</string>
+    		<key>scope</key>
+    		<string>block_cursor</string>
+    		<key>settings</key>
+    		<dict>
+        		<key>foreground</key>
+        		<string>#000000</string>
+        		<key>background</key>
+        		<string>#B4D5FE</string>
+    		</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>FDD6F02A-74F7-4B6C-97F1-857D792EC90E</string>
